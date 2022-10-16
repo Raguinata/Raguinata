@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)]
+![MasterHead](https://64.media.tumblr.com/0831f9e3d6ede65959cbae769b148c38/c6afe65bc22cd694-f4/s1280x1920/624b587b5ac096f45404b27388fd9b432b522322.gif)
 <h1 align="center">Olá 👋, meu nome é Leonardo Ravanelli</h1>
 <h3 align="center">Sou um estudante da faculdade SENAC, e um programador apaixonado pelo o'que faz</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"
