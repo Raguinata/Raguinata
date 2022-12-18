@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raguinata&label=Profile%20views&color=0e75b6&style=flat" alt="raguinata" /> </p>
 
-- 🔭 Projeto em que estou trabalhando no momento [Criar Personagens Aleatórios de D&D](https://github.com/Raguinata/Personagem-Random-RPG-D-D)
+- 🔭 Projeto em que estou trabalhando no momento [Jojo Cards](https://jojo-cards.vercel.app/)
 
 - 🌱 Atualmente estou aprendendo **React Js, Java, HTML, CSS e JavaScript**
 
