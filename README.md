@@ -35,5 +35,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raguinata&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-![Snake animation](https://github.com/raguinata/raguinata/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Raguinata/Raguinata/blob/output/github-contribution-grid-snake.svg)
 
