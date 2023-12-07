@@ -44,14 +44,12 @@
 
 <div align="center">
   
-  <img alt="Coding" width="90" src="https://i.imgur.com/fONQST1.gif"/>
  
   
-  <img width=500 height="180em" src="https://github-readme-stats.vercel.app/api?username=raguinata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raguinata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raguinata&layout=compact&langs_count=7&theme=dracula"/>
 
   
-  <img alt="Coding" width="90" src="https://i.imgur.com/oV6kBKT.gif"/>
   
 </div>
 
