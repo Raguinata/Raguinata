@@ -1,13 +1,15 @@
+
 <img align="center" width="2000" src="https://i.imgur.com/IZ63ToI.gif"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raguinata&style=for-the-badge&color=blueviolet" alt="raguinata" /> </p>
+
 ⠀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=26a641&pause=20000&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+meu+nome+é+Leonardo+Ravanelli)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=26a641&size=20&center=true&vCenter=true&width=1000&lines=Sou+um+estudante+da+faculdade+Senac;e+um+programador+apaixonado+pelo+o´que+faz;Seja+Muito+Bem+Vindo(a)+ao+Meu+Perfil+😊)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5769ff&pause=20000&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+meu+nome+é+Leonardo+Ravanelli)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5769ff&size=20&center=true&vCenter=true&width=1000&lines=Sou+um+estudante+da+faculdade+Senac;e+um+programador+apaixonado+pelo+o´que+faz;Seja+Muito+Bem+Vindo(a)+ao+Meu+Perfil+😊)](https://git.io/typing-svg)
+<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 ⠀
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raguinata&label=Profile%20views&color=0e75b6&style=flat" alt="raguinata" /> </p>
 
 - 🔭 Projeto em que estou trabalhando no momento [Jojo Cards](https://jojo-cards.vercel.app/)
 
@@ -39,5 +41,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raguinata&layout=compact&langs_count=7&theme=merko"/>
 </div>
     
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raguinata&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raguinata&bg_color=b2b8f0&color=000000&area_color=ffffff&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
