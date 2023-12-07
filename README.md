@@ -1,7 +1,11 @@
-![MasterHead](https://64.media.tumblr.com/0831f9e3d6ede65959cbae769b148c38/c6afe65bc22cd694-f4/s1280x1920/624b587b5ac096f45404b27388fd9b432b522322.gif)
-<h1 align="center">Olá 👋, meu nome é Leonardo Ravanelli</h1>
-<h3 align="center">Sou um estudante da faculdade SENAC, e um programador apaixonado pelo o'que faz</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif"
+<img align="center" width="2000" src="https://i.imgur.com/IZ63ToI.gif"/>
+⠀
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48D1CC&pause=20000&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+meu+nome+é+Leonardo+Ravanelli)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48D1CC&size=20&center=true&vCenter=true&width=1000&lines=Sou+um+estudante+da+faculdade+Senac;e+um+programador+apaixonado+pelo+o´que+faz;Seja+Muito+Bem+Vindo(a)+ao+Meu+Perfil+😊)](https://git.io/typing-svg)
+
+⠀
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raguinata&label=Profile%20views&color=0e75b6&style=flat" alt="raguinata" /> </p>
 
