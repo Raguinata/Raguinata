@@ -40,6 +40,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raguinata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raguinata&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=1200 src="https://github-profile-trophy.vercel.app/?username=raguinata&theme=dracula"/>
+</a>
     
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raguinata&bg_color=b2b8f0&color=000000&area_color=ffffff&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
