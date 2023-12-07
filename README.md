@@ -35,6 +35,8 @@
 <a href="https://www.youtube.com/c/raguinata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raguinata" height="30" width="40" /></a>
 </p>
 
+<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
+
 <div align="center">
   <img alt="Coding" width="120" src="https://i.imgur.com/dvWCWhf.gif"/>
 
