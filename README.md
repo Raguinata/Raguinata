@@ -7,33 +7,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5769ff&pause=20000&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+meu+nome+é+Leonardo+Ravanelli)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5769ff&size=20&center=true&vCenter=true&width=1000&lines=Sou+um+estudante+da+faculdade+Senac;e+um+programador+apaixonado+pelo+o´que+faz;Seja+Muito+Bem+Vindo(a)+ao+Meu+Perfil+😊)](https://git.io/typing-svg)
 <img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
-⠀
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif"/>
 
+<h1>Sobre Mim 🧑🏻‍💻</h1>
+<p>Meu nome é Leonardo, tenho 20 anos e em fevereiro de 2022 comecei um curso de Análise e Desenvolvimento de Sistemas no Senac. Antes disso, trabalhei durante dois anos como jovem aprendiz em uma empresa metalúrgica. Durante esse tempo, consegui juntar dinheiro para fazer um curso na área de tecnologia, que sempre foi minha paixão.
 
-- 🔭 Projeto em que estou trabalhando no momento [Jojo Cards](https://jojo-cards.vercel.app/)
+Meu objetivo de carreira é evoluir a cada dia, tanto como pessoa quanto em minhas habilidades, trabalhando em uma área que eu goste, como a tecnologia</p>
 
-- 🌱 Atualmente estou aprendendo **React Js, Java, HTML, CSS e JavaScript**
+<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
-- 👯 Projeto em que estou colaborando **Nenhum no momento**
-
-- 🤝 Projeto em que estou procurando ajuda **Nenhum no momento**
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Raguinata](https://github.com/Raguinata)
-
-- 💬 Pergunte-me sobre **Qualquer coisa 🙂**
-
-- 📫 Como chegar até mim **leonardo.lrc17@gmail.com**
-
-- ⚡ Anime preferido **One Piece 🏴‍☠️**
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://twitter.com/raguinata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raguinata" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leonardo-ravanelli-0b4653231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-ravanelli-0b4653231" height="30" width="40" /></a>
-<a href="https://instagram.com/leonardo_ravanelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardo_ravanelli" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/raguinata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raguinata" height="30" width="40" /></a>
-</p>
+<h1>Linguagens</h1>
 
 <img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
