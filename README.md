@@ -1,8 +1,8 @@
 <img align="center" width="2000" src="https://i.imgur.com/IZ63ToI.gif"/>
 ⠀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48D1CC&pause=20000&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+meu+nome+é+Leonardo+Ravanelli)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48D1CC&size=20&center=true&vCenter=true&width=1000&lines=Sou+um+estudante+da+faculdade+Senac;e+um+programador+apaixonado+pelo+o´que+faz;Seja+Muito+Bem+Vindo(a)+ao+Meu+Perfil+😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=26a641&pause=20000&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+meu+nome+é+Leonardo+Ravanelli)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=26a641&size=20&center=true&vCenter=true&width=1000&lines=Sou+um+estudante+da+faculdade+Senac;e+um+programador+apaixonado+pelo+o´que+faz;Seja+Muito+Bem+Vindo(a)+ao+Meu+Perfil+😊)](https://git.io/typing-svg)
 
 ⠀
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif"/>
@@ -38,6 +38,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raguinata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raguinata&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-![snake gif](https://github.com/Raguinata/Raguinata/blob/output/github-contribution-grid-snake.svg)
+    
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raguinata&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
