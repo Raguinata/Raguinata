@@ -36,6 +36,7 @@
 </p>
 
 <div align="center">
+  <img alt="Coding" width="120" src="https://i.imgur.com/dvWCWhf.gif"/>
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raguinata&theme=dracula&locale=pt_BR)](https://git.io/streak-stats)
   
@@ -43,14 +44,14 @@
 
 <div align="center">
   
-  <img alt="Coding" width="80" src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif"/>
+  <img alt="Coding" width="120" src="https://i.imgur.com/fONQST1.gif"/>
  
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raguinata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raguinata&layout=compact&langs_count=7&theme=dracula"/>
 
   
-  <img alt="Coding" width="80" src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif"/>
+  <img alt="Coding" width="120" src="https://i.imgur.com/oV6kBKT.gif"/>
   
 </div>
 
