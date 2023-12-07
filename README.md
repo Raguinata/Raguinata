@@ -35,10 +35,23 @@
 <a href="https://www.youtube.com/c/raguinata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raguinata" height="30" width="40" /></a>
 </p>
 
-<div display="flex">
-  <a href="https://github.com/raguinata">
+<div align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raguinata&theme=dracula&locale=pt_BR)](https://git.io/streak-stats)
+  
+</div>
+
+<div align="center">
+  
+  <img alt="Coding" width="80" src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif"/>
+ 
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raguinata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raguinata&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raguinata&layout=compact&langs_count=7&theme=dracula"/>
+
+  
+  <img alt="Coding" width="80" src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif"/>
+  
 </div>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
