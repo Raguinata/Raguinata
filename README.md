@@ -41,10 +41,10 @@ Meu objetivo de carreira é evoluir a cada dia, tanto como pessoa quanto em minh
   <!-- AWS --> <img src="https://img.shields.io/badge/AWS-5E5C5C?style=for-the-badge&logo=amazon&logoColor=white">
   <!-- Azure --> <img src="https://img.shields.io/badge/Azure-3fc2f0?style=for-the-badge&logo=azure-devops&logoColor=ffffff">
   <!-- MySQL --> <img src="https://img.shields.io/badge/MySQL-e47933?style=for-the-badge&logo=mysql&logoColor=white">
-  <!-- Postgre --> <img src="https://img.shields.io/badge/MySQL-e47933?style=for-the-badge&logo=mysql&logoColor=white">
-  <!-- Insomnia --> <img src="https://img.shields.io/badge/MySQL-e47933?style=for-the-badge&logo=mysql&logoColor=white">
-  <!-- Postman --> <img src="https://img.shields.io/badge/MySQL-e47933?style=for-the-badge&logo=mysql&logoColor=white">
-  <!-- SpringBoot --> <img src="https://img.shields.io/badge/MySQL-e47933?style=for-the-badge&logo=mysql&logoColor=white">
+  <!-- Postgre --> <img src="https://img.shields.io/badge/Postgre-3d6897?style=for-the-badge&logo=Postgresql&logoColor=white">
+  <!-- Insomnia --> <img src="https://img.shields.io/badge/Insomnia-5d4fc0?style=for-the-badge&logo=Insomnia&logoColor=white">
+  <!-- Postman --> <img src="https://img.shields.io/badge/Postman-ff713d?style=for-the-badge&logo=postman&logoColor=white">
+  <!-- SpringBoot --> <img src="https://img.shields.io/badge/SpringBoot-72b545?style=for-the-badge&logo=SpringBoot&logoColor=white">
   <br>
 </div>
 
@@ -52,7 +52,17 @@ Meu objetivo de carreira é evoluir a cada dia, tanto como pessoa quanto em minh
 
 <h1>Redes Sociais</h1>
 
-
+<div align="center">
+  <!-- Work Links -->
+  <a href="https://github.com/raguinata" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/raguinata/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leonardo.lrc17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <!-- YT Links -->
+  <a href="https://www.youtube.com/@Raguinata" target="_blank"><img src="https://img.shields.io/badge/@Raguinata-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <!-- Social Links -->
+  <a href="https://www.instagram.com/leonardo_lrc17/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <!-- OTH Links -->
+</div>
 
 <img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
